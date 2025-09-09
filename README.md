@@ -1,4 +1,5 @@
 # TalentMatch ATS
+Deployment Link: https://talent-match-ats-git-main-novas-projects-8121d3d6.vercel.app/
 
 TalentMatch is a lightweight Applicant Tracking System (ATS) prototype designed for HR recruiters to efficiently manage job applications. Built using React and Tailwind CSS, this tool allows recruiters to post jobs, view applicants, and filter them based on custom criteria.
 
